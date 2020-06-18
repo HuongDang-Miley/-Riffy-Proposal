@@ -17,12 +17,12 @@ An app that takes user current weight and goal weight and return how many calori
  4. Water recommend per day
  
  
-#STRETCH GOAL 
+# STRETCH GOAL 
 
 ## Step 2 for weight tracking app
 App allow user to put the data daily and show in form of charts: weight, water intake, sleep, activity
 Charts show data of the last 7 days. App take average data of the last 7 days and give back a statement: 
 "With your current progress, you can lose x lbs within y weeks"
 
-## Chat Apps (seperate project)
+## Chat Apps (a seperate project)
 2 users can chat, send images, videos, file in real time.
