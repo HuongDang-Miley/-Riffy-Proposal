@@ -1,7 +1,7 @@
 # -Riffy-Proposal
 
 
-1. Weight Tracking App
+## 1. Weight Tracking App
 An app that takes user current weight and goal weight and return how many calories they should intake a day as well as how long they can archive the goal. User can also daily enter their data and app return data inform of charts (water, weight, sleep, activity)
 
 Step 1: Caculate data
@@ -23,5 +23,5 @@ Step 2: Only happend when step1 complete. Take daily data and show as chart. Cac
 App allow user to put the data daily and show in form of charts. There are 4 charts: weight, water intake, sleep, activity
 Chart show data of the last 7 days. App take average data of the last 7 days and give back a statement: "With your current day, you can lose x lbs within y weeks"
 
-2. Chat Apps
+## 2. Chat Apps
 2 users can chat, send images, videos, file in real time
