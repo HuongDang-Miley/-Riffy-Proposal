@@ -1,7 +1,7 @@
 # -Riffy-Proposal
 
 
-# 1. Weight Tracking App
+# Weight Tracking App
 An app that takes user current weight and goal weight and return how many calories they should intake a day as well as how long they can achieve the goal.
 
 * User enter:
@@ -19,10 +19,10 @@ An app that takes user current weight and goal weight and return how many calori
  
 # STRETCH GOAL 
 
-## Step 2 for weight tracking app
+## 1/ Step 2 for weight tracking app
 App allow user to put the data daily and show in form of charts: weight, water intake, sleep, activity
 Charts show data of the last 7 days. App take average data of the last 7 days and give back a statement: 
 "With your current progress, you can lose x lbs within y weeks"
 
-## Chat Apps (a seperate project)
+## 2/ Chat Apps (a seperate project)
 2 users can chat, send images, videos, file in real time.
