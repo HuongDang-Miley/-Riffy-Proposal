@@ -10,7 +10,7 @@ An app that takes user current weight and goal weight and returns how many calor
 3. Weight Goal
 4. Rate to lose weight per week: 0.5lb / 1lb / 1.5lb / 2lb
 
- * App return
+ * App return:
  1. IBM
  2. How many calories to take a day
  3. How long to achieve the goal
