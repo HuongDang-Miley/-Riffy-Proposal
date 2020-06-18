@@ -24,5 +24,5 @@ App allows user to enter data daily and displays in form of charts: weight, wate
 Charts shows data of the last 7 days. The app takes average data of the last 7 days and returns a statement: 
 "With your current progress, you can lose x lbs within y weeks"
 
-## 2/ Chat Apps (a seperate project)
+## 2/ Chat App (a seperate project)
 2 users can chat, send images, videos, file in real time.
