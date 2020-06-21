@@ -4,17 +4,28 @@
 # Weight Tracking App
 An app that takes user current weight and goal weight and returns how many calories they should take a day as well as how long they can achieve the goal.
 
-* User enter:
-1. Height
-2. Current Weight
-3. Weight Goal
-4. Rate to lose weight per week: 0.5lb / 1lb / 1.5lb / 2lb
+### User enter:
+  
+ 1. Gender (m/f)
+ 2. Height (cm)
+ 3. Current weight (kg)
+ 4. Goal Weight (kg)
+ 5. Age
+ 6. Activity level: (pick one)
+  • sendentary (little - no exercise)
+  • light (1-3 times/week)
+  • moderate (4-5 times/week)
+  • active (daily and intense)
+ 7. Weight to lose per week (pick one):
+  • 0.25kg
+  • 0.5kg
+  • 1kg
 
- * App return:
- 1. BM
- 2. How many calories to take a day
- 3. How long to achieve the goal
- 4. Water recommend per day
+ ### App returns:  
+ * Result:
+ • BMI
+ • Water intake per day.
+ • Calories to take a day. How long achieve result.
  
  
 # STRETCH GOAL 

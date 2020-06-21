@@ -25,7 +25,7 @@ if (!gender || !height || !currentWeight || !goalWeight || !age || !activity || 
         '4/ Goal Weight (kg)', '\n',
         '5/ Age','\n',
         '6/ Activity level: (pick one)', '\n',
-        ' • sendentary (little - no exercise)', '\n',
+        ' • sedentary (little - no exercise)', '\n',
         ' • light (1-3 times/week)', '\n',
         ' • moderate (4-5 times/week)', '\n',
         ' • active (daily and intense)', '\n',
